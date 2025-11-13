@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://github-stats-alpha.vercel.app/api?username=dimpeshpanwar
+https://github-stats-alpha.vercel.app/api?username={dimpeshpanwar}
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dimpeshpanwar&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
