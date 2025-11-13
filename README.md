@@ -17,8 +17,7 @@
 
 [![An image of @dimpeshpanwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@dimpeshpanwar)](https://holopin.io/@dimpeshpanwar)
 <br><br><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dimpeshpanwar&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimpeshpanwar&hide_progress=true)
