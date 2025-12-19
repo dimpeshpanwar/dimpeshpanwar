@@ -22,7 +22,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimpeshpanwar&hide_progress=true)
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=dimpeshpanwar&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!-- [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=dimpeshpanwar&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
 **dimpeshpanwar/dimpeshpanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
